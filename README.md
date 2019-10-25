@@ -8,11 +8,16 @@ Scientific figures comprise not only the figure, but also metadata about the exp
 
 Since it is a unique file, it is easy to share and transfer, we call it the SmartFigure.
 
-# the prototype
+# The prototype
 
 We used Rshiny to build a prototype to gather early feedback and work on the design. The prototype do not use xml (yet?) and provide a google-image-like visualisation (using blogdown, hugo and specific css and js commands).
 The SmartFigures themselves are saved on a dropbox folder, so no previous installation is needed. Dropbox and third party software are used to send news (on slack) and write comments on the figure.
 
-# the sourcedata dashboard
+# The sourcedata dashboard
 
 The final software will be an open source software to be installed on one's own server. It will be more complexe and allow for more automation and features and scalability.
+
+# Presentation folder
+
+We save their presentation we have been doing for this project.
+The .rmd ones are written using the xaringan approach: https://github.com/yihui/xaringan/wiki
