@@ -280,8 +280,16 @@ layout: false
 --
 
 ## What would you like to see there ?
----
 
+---
+class: center, middle
+
+
+# let's have a look and get our hands dirty:
+
+https://adoring-tereshkova-f0b719.netlify.com
+
+---
 
 class: center, middle
 
